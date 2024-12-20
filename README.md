@@ -61,7 +61,8 @@ Les résultats du concours sont disponibles dans `src/resultats.png` ! 🏆
 │   └── project_instructions.md
 └── predictions/
     └── conversion_data_test_predictions_ROM1L-logisticregression2corr
-    
+```
+   
 ## 💡 Recommandations Business
 - Optimiser l'expérience utilisateur pour augmenter les pages visitées
 - Concentrer les efforts sur l'acquisition via SEO
