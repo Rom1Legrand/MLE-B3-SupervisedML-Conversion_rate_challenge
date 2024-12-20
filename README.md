@@ -50,15 +50,18 @@ Avant transmission sur le test set aveugle, le meilleur modèle (Régression Log
 Les résultats du concours sont disponibles dans `src/resultats.png` ! 🏆
 
 ## 📁 Structure du Projet
+
+```plaintext
 ├── README.md
 ├── conversion_rate_challenge.ipynb
 ├── src/
 │   ├── conversion_data_train.csv
 │   ├── conversion_data_test.csv
-│   └── resultats.png
+│   ├── resultats.png
+│   └── project_instructions.md
 └── predictions/
-└── predictions_logistic_regression_v2.csv
-
+    └── conversion_data_test_predictions_ROM1L-logisticregression2corr
+    
 ## 💡 Recommandations Business
 - Optimiser l'expérience utilisateur pour augmenter les pages visitées
 - Concentrer les efforts sur l'acquisition via SEO
@@ -69,7 +72,7 @@ Choix du modèle selon le contexte business :
 - Si coût élevé des conversions manquées → Modèle optimisé (recall : 0.749)
 
 ## 🚀 Pistes d'Amélioration
-- Test de modèles plus sophistiqués (XGBoost, LightGBM)
-- Techniques de rééquilibrage des classes
-- Feature engineering additionnel
-- Optimisation des hyperparamètres via GridSearch
+- Test de modèles plus sophistiqués (XGBoost,...)
+- Techniques de rééquilibrage des classes (SMOTE,..)
+- Feature engineering sur les colonnes
+- Optimisation des hyperparamètres via GridSearch sur le Random Forest
