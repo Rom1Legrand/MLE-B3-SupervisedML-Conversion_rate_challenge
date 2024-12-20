@@ -62,7 +62,7 @@ Les résultats du concours sont disponibles dans `src/resultats.png` ! 🏆
 └── predictions/
     └── conversion_data_test_predictions_ROM1L-logisticregression2corr
 ```
-> 📝 Note: Du fait de l'utilisation de plotly, teoutes les visualisations ne sont pas visualisable dans le notebook
+> 📝 Note: du fait de l'utilisation de plotly, tous les schémas ne sont pas visualisables dans le notebook (autrement, taille du fichier trop important pour github)
 
 ## 💡 Recommandations Business
 - Optimiser l'expérience utilisateur pour augmenter les pages visitées
