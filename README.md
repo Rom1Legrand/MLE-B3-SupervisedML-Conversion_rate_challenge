@@ -53,12 +53,13 @@ Les résultats du concours sont disponibles dans `src/resultats.png` ! 🏆
 
 ```plaintext
 ├── README.md
-├── conversion_rate_challenge.ipynb
+├── conversion_rate_challenge.ipynb #visualisation partielle
+├── conversion_rate_challenge.pdf # full viz
 ├── src/
 │   ├── conversion_data_train.csv
 │   ├── conversion_data_test.csv
 │   ├── resultats.png
-│   └── project_instructions.md
+│   └── project_instructions.ipynb
 └── predictions/
     └── conversion_data_test_predictions_ROM1L-logisticregression2corr
 ```
