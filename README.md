@@ -53,8 +53,7 @@ Les résultats du concours sont disponibles dans `src/resultats.png` ! 🏆
 
 ```plaintext
 ├── README.md
-├── conversion_rate_challenge.ipynb #visualisation partielle
-├── conversion_rate_challenge.pdf # full viz
+├── conversion_rate_challenge.ipynb # visualisation partielle
 ├── src/
 │   ├── conversion_data_train.csv
 │   ├── conversion_data_test.csv
@@ -63,7 +62,8 @@ Les résultats du concours sont disponibles dans `src/resultats.png` ! 🏆
 └── predictions/
     └── conversion_data_test_predictions_ROM1L-logisticregression2corr
 ```
-   
+> 📝 Note: Du fait de l'utilisation de plotly, teoutes les visualisations ne sont pas visualisable dans le notebook
+
 ## 💡 Recommandations Business
 - Optimiser l'expérience utilisateur pour augmenter les pages visitées
 - Concentrer les efforts sur l'acquisition via SEO
