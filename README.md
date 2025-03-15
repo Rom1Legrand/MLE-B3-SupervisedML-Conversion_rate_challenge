@@ -60,7 +60,7 @@ Les résultats du concours sont disponibles dans `src/classement.png` ! 🏆
 │   ├── classement.png
 │   └── project_instructions.ipynb
 └── predictions/
-    └── conversion_data_test_predictions_ROM1L-logisticregression2corr
+    └── conversion_data_test_predictions_ROM1L-logisticregression2corr.csv
 ```
 > 📝 Note: Du fait de l'utilisation de plotly, teoutes les visualisations ne sont pas visualisable dans le notebook
 
