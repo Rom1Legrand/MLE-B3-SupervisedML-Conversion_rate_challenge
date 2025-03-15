@@ -47,7 +47,7 @@ Avant transmission sur le test set aveugle, le meilleur modèle (Régression Log
 - Précision : 0.829
 - Recall : 0.749
 
-Les résultats du concours sont disponibles dans `src/resultats.png` ! 🏆
+Les résultats du concours sont disponibles dans `src/classement.png` ! 🏆
 
 ## 📁 Structure du Projet
 
@@ -57,12 +57,11 @@ Les résultats du concours sont disponibles dans `src/resultats.png` ! 🏆
 ├── src/
 │   ├── conversion_data_train.csv
 │   ├── conversion_data_test.csv
-│   ├── resultats.png
+│   ├── classement.png
 │   └── project_instructions.ipynb
 └── predictions/
     └── conversion_data_test_predictions_ROM1L-logisticregression2corr
 ```
-> 📝 Note: Du fait de l'utilisation de plotly, teoutes les visualisations ne sont pas visualisable dans le notebook
 
 ## 💡 Recommandations Business
 - Optimiser l'expérience utilisateur pour augmenter les pages visitées
